@@ -1,0 +1,10 @@
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+.terraform.lock.hcl
+terraform.tfplan
+terraform/generated/
+.vscode/
+.idea/
+*.log
